@@ -308,6 +308,14 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/system/Yin%20Sector%20GW-W%20c1-26
 }
 ```
 
+#### Error example:
+
+```json
+{
+  "error": "System not found"
+}
+```
+
 ### Faction Search
 
 Search for a faction by name.
@@ -998,5 +1006,13 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/faction/Aurora%20Venatores
       "timestamp": "2026-09-01T06:10:36.000Z"
     }
   ]
+}
+```
+
+#### Error example:
+
+```json
+{
+  "error":"Faction not found"
 }
 ```
