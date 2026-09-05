@@ -79,7 +79,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/system/Yin%20Sector%20GW-W%20c1-26
 }
 ```
 
-#### Example
+#### Example:
 
 ```json
 {
@@ -391,7 +391,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/faction/Aurora%20Venatores
 }
 ```
 
-#### Example
+#### Example:
 
 ```json
 {
