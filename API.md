@@ -344,7 +344,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/faction/Aurora%20Venatores
 **API response format:**
 
 ```json
-{{
+{
   "Faction": "string - Name of the faction",
   "Government": "string - Government type of the faction",
   "Allegiance": "string - Political allegiance of the faction",
