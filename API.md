@@ -10,7 +10,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/system/{system_name}
 
 > **Note:** The system name must be [URL-encoded](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent) using percent-encoding.
 
-#### Example:
+**Example:**
 
 | Parameter   | Value                         |
 | ----------- | ----------------------------- |
@@ -79,7 +79,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/system/Yin%20Sector%20GW-W%20c1-26
 }
 ```
 
-Example:
+**Example:**
 
 ```json
 {
@@ -308,7 +308,7 @@ Example:
 }
 ```
 
-Error example:
+**Error example:**
 
 ```json
 {
@@ -328,7 +328,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/faction/{faction_name}
 
 > **Note:** The faction name must be [URL-encoded](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent) using percent-encoding.
 
-Example:
+**Example:**
 
 | Parameter   | Value                         |
 | ----------- | ----------------------------- |
@@ -399,7 +399,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/faction/Aurora%20Venatores
 }
 ```
 
-Example:
+**Example:**
 
 ```json
 {
@@ -1009,7 +1009,7 @@ Example:
 }
 ```
 
-Error example:
+**Error example:**
 
 ```json
 {
