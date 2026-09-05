@@ -10,7 +10,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/system/{system_name}
 
 > **Note:** The system name must be [URL-encoded](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent) using percent-encoding.
 
-#### Example
+#### Example:
 
 | Parameter   | Value                         |
 | ----------- | ----------------------------- |
@@ -320,7 +320,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/faction/{faction_name}
 
 > **Note:** The faction name must be [URL-encoded](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent) using percent-encoding.
 
-#### Example
+#### Example:
 
 | Parameter   | Value                         |
 | ----------- | ----------------------------- |
