@@ -20,7 +20,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/system/{system_name}
 **Request:**
 
 ```http
-GET [https://ed-cct.duckdns.org/ED-TTC/bgs/api/system/Yin%20Sector%20GW-W%20c1-26](https://ed-cct.duckdns.org/ED-TTC/bgs/api/system/Yin%20Sector%20GW-W%20c1-26)
+GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/system/Yin%20Sector%20GW-W%20c1-26
 ```
 
 **API response format:**
@@ -330,7 +330,7 @@ GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/faction/{faction_name}
 **Request:**
 
 ```http
-GET [https://ed-cct.duckdns.org/ED-TTC/bgs/api/faction/Aurora%20Venatores](https://ed-cct.duckdns.org/ED-TTC/bgs/api/faction/Aurora%20Venatores)
+GET https://ed-cct.duckdns.org/ED-TTC/bgs/api/faction/Aurora%20Venatores
 ```
 
 **API response format:**
